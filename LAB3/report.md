@@ -152,7 +152,7 @@ add_theme_support('post-thumbnails');
 Добавлен файл:
 
 ```
-screenshot.png
+image.png
 ```
 
 Используется как превью темы в WordPress.
